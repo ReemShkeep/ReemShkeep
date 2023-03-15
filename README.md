@@ -32,9 +32,9 @@ currently_preparing_for: ["AWS, CKA"]
 [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 <br></br> 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
-[![My Skills](https://skillicons.dev/icons?i=python,aws,git,jenkins,linux,docker,kubernetes,java,html,css,js,bootstrap&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,git,react,jenkins,linux,docker,kubernetes,java,html,css,js,bootstrap&perline=6)](https://skillicons.dev)
  
  [linkedin]: https://www.linkedin.com/in/reem-shkeep/
  [github]: https://github.com/ReemShkeep
- [gmail]: eng.reemshkeep@gmail.com
+ [gmail]: mailto:eng.reemshkeep@gmail.com
  
