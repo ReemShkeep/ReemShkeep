@@ -4,22 +4,22 @@
 <br></br>
 
  ```yaml
-name: Mohamed-Sorour
+name: Reem-Shkeep
 located_in: New Cairo, Egypt
-current_job: Open Source Developer
+current_job: Open Source Developer, Minor IoT
 education:
   [
-  9-Months Graduate Diploma in Open Source Application Development
+  9-Months Graduate Diploma in Open Source Application Development , Minor IoT 
   ]
-company: Information Technology Institute (ITI) 
+company: Information Technology Institute (ITI) , Ministry of Communications and Information Technology(MCIT)
 
 fields_of_interests:
   [
    "Open Source Devloper",
-   "Kubernetes Expert",
     "Cloud",
     "DevOps",
-    "Java Devloper",
+    "Python Devloper",
+    "Full Stack Web Devloper Using Python",
   ]
   
 currently_preparing_for: ["AWS, CKA"]
@@ -32,11 +32,10 @@ currently_preparing_for: ["AWS, CKA"]
 [<img src ="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
 <br></br> 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
-[![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,html,css,js,bootstrap&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,git,jenkins,linux,docker,kubernetes,java,html,css,js,bootstrap&perline=6)](https://skillicons.dev)
  
 
- [twitter]: https://twitter.com/MohamedSorour98
- [linkedin]: https://www.linkedin.com/in/mohamedsorour1998
- [github]: https://github.com/mohamedsorour1998
+ [linkedin]: https://www.linkedin.com/in/reem-shkeep/
+ [github]: https://github.com/ReemShkeep
 
  
